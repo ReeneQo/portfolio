@@ -64,10 +64,6 @@ Fullstack-разработчик | Команда 2 человека
 - Участвовал в интеграции YooKassa: тестирование webhook, валидация платёжных статусов
 - Понимание полной серверной архитектуры: RBAC (3 роли), статусная машина заказов, event-driven распределение
 
-### Деплой
-
-- Vercel (фронтенд)
-
 `React` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion` `NestJS` `Prisma` `PostgreSQL` `Docker` `Telegram Bot API` `Git` `Figma`
 
 ---
